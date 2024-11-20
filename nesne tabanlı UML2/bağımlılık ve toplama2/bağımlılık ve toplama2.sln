@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35213.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bağımlılık ve toplama2", "bağımlılık ve toplama2\bağımlılık ve toplama2.csproj", "{49FE5DA9-9B0D-4E91-9DC5-A84901464607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49FE5DA9-9B0D-4E91-9DC5-A84901464607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FE5DA9-9B0D-4E91-9DC5-A84901464607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FE5DA9-9B0D-4E91-9DC5-A84901464607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FE5DA9-9B0D-4E91-9DC5-A84901464607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBB2B1E2-FE80-424D-A077-2B7C9ECB3BC7}
+	EndGlobalSection
+EndGlobal
